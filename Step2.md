@@ -4,4 +4,4 @@ Grab your choice of socks
 
 Then simply put river water in them
 
-[Step 2](https://github.com/Zero-Smith/Repo-1/blob/main/Step3.md)
+Step 2: [Its Easy](https://github.com/Zero-Smith/Repo-1/blob/main/Step3.md)
