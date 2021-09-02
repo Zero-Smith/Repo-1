@@ -1,2 +1,2 @@
 #User-Handbook
-[Getting Started](readme.md#Step1)
+[Getting Started](https://github.com/Zero-Smith/Repo-1/blob/main/Step1)
