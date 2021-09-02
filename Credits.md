@@ -1,4 +1,4 @@
 Created by:
 
-[Alex](https://github.com/Zero-Smith)
+[Alex](https://github.com/Zero-Smith) &
 [Adrian](https://github.com/ADRIAN5R)
