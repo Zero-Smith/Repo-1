@@ -8,4 +8,4 @@ Instructions
 
 [And Its Free](https://github.com/Zero-Smith/Repo-1/blob/main/Step4.md)
 
-[Credits](https://github.com/Zero-Smith/Repo-1/blob/main/credits.md)
+[Credits](https://github.com/Zero-Smith/Repo-1/blob/main/Credits.md)
