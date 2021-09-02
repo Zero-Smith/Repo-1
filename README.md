@@ -1,6 +1,6 @@
 Pouring River Water In Socks
 
-Instructions
+Instructions:
 
 [Getting Started](https://github.com/Zero-Smith/Repo-1/blob/main/Step1.md)
 
